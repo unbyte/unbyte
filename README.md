@@ -1,9 +1,9 @@
 <div>
     <img src="https://raw.githubusercontent.com/unbyte/unbyte/master/assets/header.svg" style="margin-bottom: -40px"/>
 </div>
-
 <div align="center">
     <a target="_blank" href="https://forself.me" alt="My Blog"><img src="https://raw.githubusercontent.com/unbyte/unbyte/master/assets/blog.svg"/></a>
+    &nbsp;&nbsp;
     <a href="mailto:i@shangyes.net" alt="Email me"><img src="https://raw.githubusercontent.com/unbyte/unbyte/master/assets/mail.svg"/></a>
 </div>
 <p align="center">Full Stack Developer | System Design Learner</p>
@@ -12,13 +12,20 @@
 
 <p  align="center">
    <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30" height="30"/>
+    &nbsp;&nbsp;
    <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="30" height="30"/>
+    &nbsp;&nbsp;
    <img src="https://cdn.svgporn.com/logos/go.svg" width="36" height="36"/>
+    &nbsp;&nbsp;
    <img src="https://cdn.svgporn.com/logos/rust.svg" width="30" height="30"/>
+    &nbsp;&nbsp;
    <img src="https://cdn.svgporn.com/logos/python.svg" width="30" height="30"/>
+    &nbsp;&nbsp;
    <img src="https://cdn.svgporn.com/logos/java.svg" width="30" height="30"/>
+    &nbsp;&nbsp;
    <img src="https://cdn.svgporn.com/logos/php.svg" width="36" height="36"/>
 </p>
+
 
 <br/>
 
